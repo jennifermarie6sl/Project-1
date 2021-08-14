@@ -29,50 +29,50 @@ To view the presentation, click below (This will require you to download the fil
 # Presentation Summary   
 ##  Overview
   
- ###### Figure 1: According to the data, the following are the top 10 most required skills in this field:
+ ###### Figure 1: Top 10 most required skills in this field.
 ![Top skills needed for Data Analyst, Engineer, and Scientist positions](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Top_Skills.png)
 
-###### Figure 2:
+###### Figure 2: Top five industries with job openings.
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Top_Industries.png)
 
-###### Figure 3:
+###### Figure 3: Top 10 states with job openings.
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Top_States.png)
 
 ## Location Insights
 
-###### Figure 4:
+###### Figure 4: Where are the higher paying jobs?
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Higher_paying_jobs_heatmap.png)
 
-###### Figure 5:
+###### Figure 5: Cost of Living index by Salary
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Cost_of_living.png)
 
-###### Figure 6:
+###### Figure 6: Are there areas of the country that require more data analytic's skills?
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Unique%20_skills_state.png)
 
 ## Employer Data
 
-###### Figure 7:
+###### Figure 7: How happy are employees with their employer? (By position(s) with a vancancy)
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Company_Rating_by_Job_Types.png)
 
-###### Figure 8:
+###### Figure 8: Which locations have happier employees? (By locations with a vancancy)
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Company_Rating_by_State.png)
 
-###### Figure 9:
+###### Figure 9: Which industries have happier employees? (By industry with a vacancy)
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Company_Rating_by_Industry_Type.png)
 
 
 ## Salary Insight
 
-###### Figure 10:
+###### Figure 10: Number of Skills Desired per Salary Range.
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skill_salary_range.png)
 
-###### Figure 11:
+###### Figure 11: Number of Represented as A Percentage of Job Opening.
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skills_by_Job_Postings.png)
 
-###### Figure 12:
+###### Figure 12: Salary based on Industry
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skills_by_salary_bracket.png)
 
-###### Figure 13:
+###### Figure 13: Salary Range Based on Company Revenue
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Salary_by_company_revenue.png)
 
 # Cleaning
