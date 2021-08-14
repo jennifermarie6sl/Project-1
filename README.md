@@ -70,4 +70,6 @@ To view the presentation, click below (This will require you to download the fil
 * Applying a Function to all rows: ![Geo-code - Applying a function to all rows of a column with pandas](http://chris35wills.github.io/apply_func_pandas/)
 * Convert to array: ![Educative - How to convert a list to an array in Python](https://www.educative.io/edpresso/how-to-convert-a-list-to-an-array-in-python)
 * Horizontal line: ![Matplotlib - Adding a horizontal line](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html)
+* Sorting: ![Pandas - sort_values](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sort_values.html)
+* Astype: ![Pandas - astype](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html?highlight=astype)
 * Git hub markdown cheatsheet: ![Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
