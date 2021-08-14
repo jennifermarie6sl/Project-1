@@ -39,6 +39,8 @@ To view the presentation, click below (This will require you to download the fil
 Since everyone, or most of us, taking this bootcamp are planning to go into a data related field, we decided to present on our findings in the Data Analyst, Data Engineer, and Data Scientist job market. Below you will find a summary on our findings.
 
 ##  Overview
+
+We began by looking at skills required for the positions (Figure 1), industries with job openings (Figure 2), and states with job openings (Figure 3). Some of the skills we saw repeatly were: Python, SQL, Machine Learning, R and Hadoop. These are all skills we will learn in this bootcamp. Industries with the most job opening were: Consulting and Business Services, Internet and Software, Banks and Financial Services, Health Care, and Insurance. Some of the states with the most job openings were California, New York, Texas, and Virgina.
   
  ###### Figure 1: Top 10 most required skills in this field.
 ![Top skills needed for Data Analyst, Engineer, and Scientist positions](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Top_Skills.png)
