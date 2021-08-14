@@ -80,7 +80,9 @@ Next we looked at employer data. We wanted to know how happy employees were with
 
 ## Salary Insight - Data Anlyst positions only
 
+The final items we looked at were about salary. First up was the number of skills required for Data Analyst Positions by salary range (Figure 10). We found that the number of skills required ranged from 1 to 5 and most of these position had a salary range of less than $80,000 and $80,000 to $99,999. Next, we looked at the number of skills required represented by the percentage of job opennings (Figure 11). Sixty-five percent of job postings for Data Analyst required 2 to 6 skills. Then, we looked at which industries made more money (Figure 12). In order to make the "big-bucks", you most often have to work for an insurance, internet and software or consulting company. Finally, we looked at salary range for Data Analyst positions by Company Revenue (Figure 13). It seems like companies with higher revenue have more job postings and have higher salary range.
 
+To view findings for other positions, please look at the the !["Presentation Charts"](https://github.com/jennifermarie6sl/Project-1/tree/main/Presentation_Charts) folder.
 
 ###### Figure 10: Number of Skills Desired per Salary Range.
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skill_salary_range.png)
