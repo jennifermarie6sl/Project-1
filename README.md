@@ -58,5 +58,7 @@ To view the presentation, click below:
 * Dropped columns: 'Link', 'Date Since Posted', and 'Description'.
 * Adjusted data types when necessary
 * Added latitude, longitude, and cost-of-living index for use with 'Location'
+* Modified data format for use in visualizations
+* Merged four, cleaned .csv files into one dataset for analysis and visualizations
 
 # Sources
