@@ -11,6 +11,12 @@ Data Analyst/Engineer/Scientist Job Analysis
 * 43 Columns
 * 5715 Rows
 
+#### Presenters
+* Shailza Rattu
+* Lori Pepper
+* Susana Villagrana
+* Jennifer Rocha
+
 ### Presentation
 To view the presentation, click below:
 
@@ -47,5 +53,10 @@ To view the presentation, click below:
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skills_by_salary_bracket.png)
 
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Salary_by_company_revenue.png)
+
+# Cleaning
+* Dropped columns: 'Link', 'Date Since Posted', and 'Description'.
+* Adjusted data types when necessary
+* Added latitude, longitude, and cost-of-living index for use with 'Location'
 
 # Sources
