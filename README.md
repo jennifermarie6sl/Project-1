@@ -72,4 +72,6 @@ To view the presentation, click below (This will require you to download the fil
 * Horizontal line: ![Matplotlib - Adding a horizontal line](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html)
 * Sorting: ![Pandas - sort_values](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sort_values.html)
 * Astype: ![Pandas - astype](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html?highlight=astype)
+* Drop: ![Pandas - drop](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html?highlight=drop#pandas.DataFrame.drop)
+* Drop Duplicates: ![Pandas - drop_duplicates](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html#pandas.DataFrame.drop_duplicates)
 * Git hub markdown cheatsheet: ![Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
