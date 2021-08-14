@@ -26,7 +26,18 @@ To view the presentation, click below (This will require you to download the fil
  
    ![Data Analyst Job Market.pdf](https://github.com/jennifermarie6sl/Project-1/blob/92b7ad80f14b48936a3f46913bbbb8e07a38e4c8/Presentation/FINAL_Project%201_Indeed%20Data%20Analysis.pdf)
    
+ # Cleaning
+* You can find our Jupyter Notebook and cleaned dataset in the !["Finalized Group Code"](https://github.com/jennifermarie6sl/Project-1/tree/main/Finalized%20Group%20Code) folder.
+* Dropped columns: 'Link', 'Date Since Posted', and 'Description'.
+* Adjusted data types when necessary
+* Added latitude, longitude, and cost-of-living index for use with 'Location'
+* Modified data format for use in visualizations
+* Merged four, cleaned .csv files into one dataset for analysis and visualizations
+   
 # Presentation Summary   
+
+Since everyone, or most of us, taking this bootcamp are planning to go into a data related field, we decided to present on our findings in the Data Analyst, Data Engineer, and Data Scientist job market. Below you will find a summary on our findings.
+
 ##  Overview
   
  ###### Figure 1: Top 10 most required skills in this field.
@@ -74,14 +85,6 @@ To view the presentation, click below (This will require you to download the fil
 
 ###### Figure 13: Salary Range Based on Company Revenue
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Salary_by_company_revenue.png)
-
-# Cleaning
-* You can find our Jupyter Notebook and cleaned dataset in the !["Finalized Group Code"](https://github.com/jennifermarie6sl/Project-1/tree/main/Finalized%20Group%20Code) folder.
-* Dropped columns: 'Link', 'Date Since Posted', and 'Description'.
-* Adjusted data types when necessary
-* Added latitude, longitude, and cost-of-living index for use with 'Location'
-* Modified data format for use in visualizations
-* Merged four, cleaned .csv files into one dataset for analysis and visualizations
 
 # Sources
 * Search Function: ![Stack Overflow - Extract words surrounding a search word](https://stackoverflow.com/questions/17645701/extract-words-surrounding-a-search-word)
