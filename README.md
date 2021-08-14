@@ -91,5 +91,5 @@ To view the presentation, click below (This will require you to download the fil
 * Astype: ![Pandas - astype](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html?highlight=astype)
 * Drop: ![Pandas - drop](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html?highlight=drop#pandas.DataFrame.drop)
 * Drop Duplicates: ![Pandas - drop_duplicates](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html#pandas.DataFrame.drop_duplicates)
-* Power point images: All images in out presentation came from the Powerpoint Design Tool or Online Pictures Tool.
+* Power point images: All images in out presentation came from the Powerpoint Design Tool or Online Pictures Tool. Except, the we created. These charts can be found ![here.](https://github.com/jennifermarie6sl/Project-1/tree/main/Presentation_Charts)
 * Git hub markdown cheatsheet: ![Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
