@@ -18,9 +18,12 @@ Data Analyst/Engineer/Scientist Job Analysis
 * Jennifer Rocha
 
 ### Presentation
-To view the presentation, click below:
+To view the presentation, click below (This will require you to download the file, but it will have audio):
 
-   ![Data Analyst Job Market](https://1drv.ms/p/s!Ak4UzGSOo6hg-yTpOIX0QRhmHH_a?e=WwOkSk "Data Analyst Job Market")
+   ![Data Analyst Job Market](https://github.com/jennifermarie6sl/Project-1/blob/e5fed65a16d19056c854859958325d39fc344a75/Presentation/FINAL_Project%201_Indeed%20Data%20Analysis.ppsx "Data Analyst Job Market")
+   
+ To view a .pdf version of the slides, click below:
+   ![Data Analyst Job Market.pdf](https://github.com/jennifermarie6sl/Project-1/blob/92b7ad80f14b48936a3f46913bbbb8e07a38e4c8/Presentation/FINAL_Project%201_Indeed%20Data%20Analysis.pdf)
    
 # Presentation Summary   
 ##  Overview
