@@ -78,7 +78,9 @@ Next we looked at employer data. We wanted to know how happy employees were with
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Company_Rating_by_Industry_Type.png)
 
 
-## Salary Insight
+## Salary Insight - Data Anlyst positions only
+
+
 
 ###### Figure 10: Number of Skills Desired per Salary Range.
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skill_salary_range.png)
