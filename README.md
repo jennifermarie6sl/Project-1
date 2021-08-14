@@ -20,7 +20,7 @@ Data Analyst/Engineer/Scientist Job Analysis
 ### Presentation
 To view the presentation, click below:
 
-   ![Data Analyst Job Market](http://www.google.fr/ "Data Analyst Job Market")
+   ![Data Analyst Job Market](https://1drv.ms/p/s!Ak4UzGSOo6hg-yTpOIX0QRhmHH_a?e=WwOkSk "Data Analyst Job Market")
    
 # Presentation Summary   
 ##  Overview
