@@ -16,4 +16,17 @@ To view the presentation, click below:
 
    [Analyzing Data Analyst, Engineer, and Scientist Job Openings](http://www.google.fr/ "Analyzing Data Analyst, Engineer, and Scientist Job Openings")
    
- 
+# Presentation Summary   
+##  Overview
+
+
+## Location Insights
+
+
+## Employer Data
+
+
+## Salary Insight
+
+
+# Sources
