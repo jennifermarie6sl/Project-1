@@ -69,4 +69,5 @@ To view the presentation, click below (This will require you to download the fil
 * Search Function: ![Stack Overflow - Extract words surrounding a search word](https://stackoverflow.com/questions/17645701/extract-words-surrounding-a-search-word)
 * Applying a Function to all rows: ![Geo-code - Applying a function to all rows of a column with pandas](http://chris35wills.github.io/apply_func_pandas/)
 * Convert to array: ![Educative - How to convert a list to an array in Python](https://www.educative.io/edpresso/how-to-convert-a-list-to-an-array-in-python)
+* Horizontal line: ![Matplotlib - Adding a horizontal line](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html)
 * Git hub markdown cheatsheet: ![Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
