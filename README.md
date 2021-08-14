@@ -66,6 +66,8 @@ Next, we looked at differences in positions by location. First, we wanted to kno
 
 ## Employer Data
 
+Next we looked at employer data. We wanted to know how happy employees were with these companies that had job opennings. We initiated this section by looking at the distribution of company ratings by the type of job they had opened (Figure 7). For the most part, employees seem happy with their employer, so we decided to dig deeper. We found a higher variation in company ratings when we looked at position location (Figure 8) and Industry Type (Figure 9). Employers with the happiest employees had job opennings in Alabama (4.03 stars) and employers with the unhappiest employees in Wyoming(3.30 stars). Companies with the highest ratings were from an Education and Schools industry (4.08) and companies with the lowest ratings were from the Insurance Health Care Industry (3.30).
+
 ###### Figure 7: How happy are employees with their employer? (By position(s) with a vancancy)
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Company_Rating_by_Job_Types.png)
 
