@@ -4,6 +4,7 @@ Data Analyst/Engineer/Scientist Job Analysis
 ## About the data
 * Pulled from Kaggle.com
 * Dataset name on Kaggle: Indeed Dataset (Data Scientist, Analyst, and Engineer)
+* Link to dataset: [Indeed Dataset](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer?select=indeed_job_dataset.csv)
 * Age of dataset: 11/02/2018
 * The data was originally sourced from Indeed.
 * Kaggle Usability Score: 3.5
