@@ -53,6 +53,8 @@ We began by looking at skills required for the positions (Figure 1), industries 
 
 ## Location Insights
 
+Next, we looked at differences in positions by location. First, we wanted to know which states had higher paying positions (Figure 4). We found that higher salaries are offered in areas with established or emerging technology centers, like Utah (Silicon Slopes) and South Carolina (Silicon Harbor) Then, we looked wanted to know if these changes in salary were caused by the cost of living index (Figure 5). Those states with higher salaries tended to have higher cost of living, However, when comparing salary to the cost of living index their wasn't a significant relationship. To finalize this section, we looked at the number of skills required by state (Figure 6). States that require a higher number of data analytical skills generally align with areas that include jobs with higher salaries.
+
 ###### Figure 4: Where are the higher paying jobs?
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Higher_paying_jobs_heatmap.png)
 
