@@ -76,6 +76,7 @@ To view the presentation, click below (This will require you to download the fil
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Salary_by_company_revenue.png)
 
 # Cleaning
+* You can find our Jupyter Notebook and cleaned dataset in the !["Finalized Group Code"](https://github.com/jennifermarie6sl/Project-1/tree/main/Finalized%20Group%20Code) folder.
 * Dropped columns: 'Link', 'Date Since Posted', and 'Description'.
 * Adjusted data types when necessary
 * Added latitude, longitude, and cost-of-living index for use with 'Location'
