@@ -107,3 +107,6 @@ To view findings for other positions, please look at the the !["Presentation Cha
 * Drop Duplicates: ![Pandas - drop_duplicates](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html#pandas.DataFrame.drop_duplicates)
 * Power point images: All images in out presentation came from the Powerpoint Design Tool or Online Pictures Tool. Except, the we created. These charts can be found ![here.](https://github.com/jennifermarie6sl/Project-1/tree/main/Presentation_Charts)
 * Git hub markdown cheatsheet: ![Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* Cost of Living Index for the U.S.: https://meric.mo.gov/data/cost-living-data-series
+* Latitude and Longitude by U.S. state: https://www.latlong.net/category/states-236-14.html
+* How to normalize data to rescale information: https://www.geeksforgeeks.org/data-normalization-with-pandas/
