@@ -94,7 +94,7 @@ To view findings for other positions, please look at the the !["Presentation Cha
 ![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/No_skills_by_salary_bracket.png)
 
 ###### Figure 13: Salary Range Based on Company Revenue
-![alt text](https://github.com/jennifermarie6sl/Project-1/blob/ed5a47a655b497b329e1e2adb06faf46f621032b/Presentation_Charts/Salary_by_company_revenue.png)
+![alt text] (https://github.com/jennifermarie6sl/Project-1/blob/21c457e1a6f6d67d8b3791cf5b98ea75143e65f7/Presentation_Charts/Salary%20by%20Company%20Revenue.png)
 
 # Sources
 * Search Function: ![Stack Overflow - Extract words surrounding a search word](https://stackoverflow.com/questions/17645701/extract-words-surrounding-a-search-word)
